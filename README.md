@@ -10,8 +10,11 @@ I tested these projects by running on my Hadoop Pseudo cluster deployed on Ubunt
 
 In files/Datasets there are 3 datasets from Kaggle and 1 from Central Bank of Russian Federation:
 https://www.kaggle.com/fernandol/countries-of-the-world
+
 https://www.kaggle.com/brendan45774/countries-life-expectancy
+
 https://www.kaggle.com/nitinsss/military-expenditure-of-countries-19602019
+
 https://cbr.ru/currency_base/dynamics/
 
 files/Spark_API/EtlQueries/java_etl_countries.sql is a ETL-script based on source tables made from Datasets.
