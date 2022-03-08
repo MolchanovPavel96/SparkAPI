@@ -3,7 +3,6 @@
 # Алгоритм регистрации пользовательской функции в PySpark (UDF - User-Defined Function)
 # на примере функции mask_hash() с целью взятия хеша от строки
 
-# Импорты
 import re
 import hashlib
 from pyspark.sql import functions
